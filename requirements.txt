@@ -2,3 +2,4 @@ openai
 mcp
 httpx
 pydantic
+python-dotenv
