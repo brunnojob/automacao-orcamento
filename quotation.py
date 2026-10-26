@@ -79,23 +79,27 @@ async def extract(subject, body):
 
 
 async def lookup(description):
-    from mcp import ClientSession
-    from mcp.client.streamable_http import streamablehttp_client
-    headers = {"Authorization": "Bearer " + os.environ["CATALOG_MCP_TOKEN"]}
-    async with streamablehttp_client(os.environ["CATALOG_MCP_URL"], headers=headers) as (read, write, _):
+    import sys
+    from pathlib import Path
+    from mcp import ClientSession, StdioServerParameters
+    from mcp.client.stdio import stdio_client
+    parameters = StdioServerParameters(
+        command=sys.executable,
+        args=[str(Path(__file__).with_name("catalog_mcp.py"))],
+        env={"SUPABASE_SERVICE_ROLE_KEY": os.environ["SUPABASE_SERVICE_ROLE_KEY"]})
+    async with stdio_client(parameters) as (read, write):
         async with ClientSession(read, write) as session:
             await session.initialize()
-            result = await session.call_tool(os.environ["CATALOG_MCP_TOOL"], {"query": description})
+            result = await session.call_tool("search_products", {"query": description})
             if result.isError:
-                raise ValueError("Catalog tool failed")
+                raise ValueError("Supabase catalog lookup failed")
             data = result.structuredContent
             if data is None:
                 data = json.loads("".join(c.text for c in result.content if c.type == "text"))
             products = data["products"]
             if len(products) != 1:
-                raise ValueError("Missing or ambiguous catalog match")
+                raise ValueError("Missing or ambiguous Supabase catalog match")
             return products[0]
-
 
 async def photo(url):
     import httpx
