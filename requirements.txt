@@ -1,0 +1,4 @@
+openai
+mcp
+httpx
+pydantic
