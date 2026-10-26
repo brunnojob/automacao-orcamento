@@ -11,10 +11,10 @@ def normalize(value):
 
 
 async def search_products(query):
-    import httpx
     query = query.strip()
     if not 1 <= len(query) <= 500:
         raise ValueError("Invalid product query")
+    import httpx
     key = os.environ["SUPABASE_SERVICE_ROLE_KEY"]
     async with httpx.AsyncClient(timeout=20, follow_redirects=False) as client:
         response = await client.get(
