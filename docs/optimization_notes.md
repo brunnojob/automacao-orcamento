@@ -202,3 +202,5 @@
 
 * [2026-10-29 21:28:51] format applied to internal configs (Ref: 8d25b7c5-1)
 
+* [2026-10-29 21:28:51] clean applied to internal configs (Ref: 8d25b7c5-2)
+
