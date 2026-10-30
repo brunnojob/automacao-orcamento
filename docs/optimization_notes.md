@@ -1084,3 +1084,5 @@
 
 * [2026-10-30 02:50:28] optimize applied to internal configs (Ref: ac459e67-42)
 
+* [2026-10-30 02:50:28] update applied to inline comments (Ref: ac459e67-43)
+
