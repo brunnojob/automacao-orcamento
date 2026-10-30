@@ -190,3 +190,5 @@
 
 * [2026-10-29 21:28:34] improve applied to internal configs (Ref: b404e6de-45)
 
+* [2026-10-29 21:28:34] clean applied to module structure (Ref: b404e6de-46)
+
