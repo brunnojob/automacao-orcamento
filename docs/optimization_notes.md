@@ -280,3 +280,5 @@
 
 * [2026-10-29 21:29:02] optimize applied to module structure (Ref: 8d25b7c5-40)
 
+* [2026-10-29 21:29:02] improve applied to utilities (Ref: 8d25b7c5-41)
+
