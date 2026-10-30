@@ -732,3 +732,5 @@
 
 * [2026-10-30 02:49:16] optimize applied to module structure (Ref: 18cbb192-16)
 
+* [2026-10-30 02:49:17] improve applied to internal configs (Ref: 18cbb192-17)
+
