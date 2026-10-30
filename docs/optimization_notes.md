@@ -422,3 +422,5 @@
 
 * [2026-10-29 21:29:51] clean applied to utilities (Ref: fbe0077c-11)
 
+* [2026-10-29 21:29:52] clean applied to internal configs (Ref: fbe0077c-12)
+
