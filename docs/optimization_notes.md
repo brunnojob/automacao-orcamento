@@ -1008,3 +1008,5 @@
 
 * [2026-10-30 02:50:21] clean applied to type hints (Ref: ac459e67-4)
 
+* [2026-10-30 02:50:21] clean applied to utilities (Ref: ac459e67-5)
+
