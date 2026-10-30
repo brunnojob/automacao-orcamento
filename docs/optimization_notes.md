@@ -444,3 +444,5 @@
 
 * [2026-10-29 21:29:57] clean applied to utilities (Ref: fbe0077c-22)
 
+* [2026-10-29 21:29:58] clean applied to internal configs (Ref: fbe0077c-23)
+
