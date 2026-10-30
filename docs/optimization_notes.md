@@ -168,3 +168,5 @@
 
 * [2026-10-29 21:28:31] improve applied to module structure (Ref: b404e6de-34)
 
+* [2026-10-29 21:28:31] optimize applied to internal configs (Ref: b404e6de-35)
+
