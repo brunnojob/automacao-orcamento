@@ -46,3 +46,5 @@
 
 * [2026-10-29 21:28:00] clean applied to type hints (Ref: 4beff8d2-23)
 
+* [2026-10-29 21:28:00] format applied to internal configs (Ref: 4beff8d2-24)
+
