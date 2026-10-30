@@ -704,3 +704,5 @@
 
 * [2026-10-30 02:49:15] improve applied to module structure (Ref: 18cbb192-2)
 
+* [2026-10-30 02:49:15] format applied to internal configs (Ref: 18cbb192-3)
+
