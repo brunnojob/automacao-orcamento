@@ -174,3 +174,5 @@
 
 * [2026-10-29 21:28:32] format applied to type hints (Ref: b404e6de-37)
 
+* [2026-10-29 21:28:32] clean applied to module structure (Ref: b404e6de-38)
+
