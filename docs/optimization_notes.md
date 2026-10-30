@@ -976,3 +976,5 @@
 
 * [2026-10-30 02:50:06] clean applied to utilities (Ref: 464b5b3b-38)
 
+* [2026-10-30 02:50:06] format applied to internal configs (Ref: 464b5b3b-39)
+
