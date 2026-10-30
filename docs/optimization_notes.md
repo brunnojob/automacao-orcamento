@@ -562,3 +562,5 @@
 
 * [2026-10-29 21:30:34] improve applied to module structure (Ref: 7d753afc-31)
 
+* [2026-10-29 21:30:35] optimize applied to internal configs (Ref: 7d753afc-32)
+
