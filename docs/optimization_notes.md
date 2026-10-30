@@ -408,3 +408,5 @@
 
 * [2026-10-29 21:29:48] improve applied to module structure (Ref: fbe0077c-4)
 
+* [2026-10-29 21:29:48] format applied to utilities (Ref: fbe0077c-5)
+
