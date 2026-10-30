@@ -1004,3 +1004,5 @@
 
 * [2026-10-30 02:50:21] clean applied to utilities (Ref: ac459e67-2)
 
+* [2026-10-30 02:50:21] update applied to internal configs (Ref: ac459e67-3)
+
