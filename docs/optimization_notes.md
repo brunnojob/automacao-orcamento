@@ -598,3 +598,5 @@
 
 * [2026-10-29 21:30:41] clean applied to module structure (Ref: 7d753afc-49)
 
+* [2026-10-29 21:30:41] format applied to inline comments (Ref: 7d753afc-50)
+
