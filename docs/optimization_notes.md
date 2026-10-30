@@ -826,3 +826,5 @@
 
 * [2026-10-30 02:49:36] clean applied to utilities (Ref: 73c719a3-13)
 
+* [2026-10-30 02:49:36] format applied to internal configs (Ref: 73c719a3-14)
+
