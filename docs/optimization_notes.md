@@ -1044,3 +1044,5 @@
 
 * [2026-10-30 02:50:24] clean applied to type hints (Ref: ac459e67-22)
 
+* [2026-10-30 02:50:24] format applied to internal configs (Ref: ac459e67-23)
+
