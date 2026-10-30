@@ -558,3 +558,5 @@
 
 * [2026-10-29 21:30:34] clean applied to utilities (Ref: 7d753afc-29)
 
+* [2026-10-29 21:30:34] improve applied to inline comments (Ref: 7d753afc-30)
+
