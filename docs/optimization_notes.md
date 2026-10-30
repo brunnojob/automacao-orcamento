@@ -240,3 +240,5 @@
 
 * [2026-10-29 21:28:57] improve applied to utilities (Ref: 8d25b7c5-20)
 
+* [2026-10-29 21:28:57] update applied to module structure (Ref: 8d25b7c5-21)
+
