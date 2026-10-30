@@ -438,3 +438,5 @@
 
 * [2026-10-29 21:29:56] optimize applied to internal configs (Ref: fbe0077c-19)
 
+* [2026-10-29 21:29:56] improve applied to module structure (Ref: fbe0077c-20)
+
