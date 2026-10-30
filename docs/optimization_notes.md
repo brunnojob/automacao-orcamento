@@ -262,3 +262,5 @@
 
 * [2026-10-29 21:29:00] clean applied to module structure (Ref: 8d25b7c5-31)
 
+* [2026-10-29 21:29:00] clean applied to internal configs (Ref: 8d25b7c5-32)
+
