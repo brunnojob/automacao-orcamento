@@ -442,3 +442,5 @@
 
 * [2026-10-29 21:29:57] clean applied to inline comments (Ref: fbe0077c-21)
 
+* [2026-10-29 21:29:57] clean applied to utilities (Ref: fbe0077c-22)
+
