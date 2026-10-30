@@ -160,3 +160,5 @@
 
 * [2026-10-29 21:28:30] improve applied to inline comments (Ref: b404e6de-30)
 
+* [2026-10-29 21:28:30] improve applied to internal configs (Ref: b404e6de-31)
+
