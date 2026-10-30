@@ -508,3 +508,5 @@
 
 * [2026-10-29 21:30:27] format applied to utilities (Ref: 7d753afc-4)
 
+* [2026-10-29 21:30:28] format applied to inline comments (Ref: 7d753afc-5)
+
