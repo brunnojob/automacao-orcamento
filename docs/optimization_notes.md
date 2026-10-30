@@ -382,3 +382,5 @@
 
 * [2026-10-29 21:29:28] optimize applied to internal configs (Ref: a373d12f-41)
 
+* [2026-10-29 21:29:28] optimize applied to utilities (Ref: a373d12f-42)
+
