@@ -690,3 +690,5 @@
 
 * [2026-10-30 02:49:01] update applied to internal configs (Ref: a6514b97-45)
 
+* [2026-10-30 02:49:01] improve applied to module structure (Ref: a6514b97-46)
+
