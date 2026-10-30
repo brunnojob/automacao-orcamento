@@ -502,3 +502,5 @@
 
 * [2026-10-29 21:30:26] improve applied to module structure (Ref: 7d753afc-1)
 
+* [2026-10-29 21:30:26] update applied to internal configs (Ref: 7d753afc-2)
+
