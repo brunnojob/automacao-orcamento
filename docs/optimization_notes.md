@@ -1072,3 +1072,5 @@
 
 * [2026-10-30 02:50:27] format applied to internal configs (Ref: ac459e67-36)
 
+* [2026-10-30 02:50:27] clean applied to module structure (Ref: ac459e67-37)
+
