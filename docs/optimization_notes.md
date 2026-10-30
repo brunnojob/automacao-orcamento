@@ -474,3 +474,5 @@
 
 * [2026-10-29 21:30:03] improve applied to internal configs (Ref: fbe0077c-37)
 
+* [2026-10-29 21:30:04] clean applied to inline comments (Ref: fbe0077c-38)
+
