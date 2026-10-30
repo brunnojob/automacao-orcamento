@@ -694,3 +694,5 @@
 
 * [2026-10-30 02:49:01] improve applied to inline comments (Ref: a6514b97-47)
 
+* [2026-10-30 02:49:01] format applied to internal configs (Ref: a6514b97-48)
+
