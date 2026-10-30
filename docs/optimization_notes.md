@@ -344,3 +344,5 @@
 
 * [2026-10-29 21:29:23] format applied to internal configs (Ref: a373d12f-22)
 
+* [2026-10-29 21:29:23] format applied to type hints (Ref: a373d12f-23)
+
