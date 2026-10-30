@@ -154,3 +154,5 @@
 
 * [2026-10-29 21:28:30] optimize applied to utilities (Ref: b404e6de-27)
 
+* [2026-10-29 21:28:30] clean applied to inline comments (Ref: b404e6de-28)
+
