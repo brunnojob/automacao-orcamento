@@ -32,3 +32,5 @@
 
 * [2026-10-29 21:27:58] format applied to inline comments (Ref: 4beff8d2-16)
 
+* [2026-10-29 21:27:59] format applied to utilities (Ref: 4beff8d2-17)
+
