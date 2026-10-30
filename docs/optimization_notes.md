@@ -516,3 +516,5 @@
 
 * [2026-10-29 21:30:29] optimize applied to utilities (Ref: 7d753afc-8)
 
+* [2026-10-29 21:30:29] improve applied to inline comments (Ref: 7d753afc-9)
+
