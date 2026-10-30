@@ -42,3 +42,5 @@
 
 * [2026-10-29 21:28:00] format applied to internal configs (Ref: 4beff8d2-21)
 
+* [2026-10-29 21:28:00] clean applied to internal configs (Ref: 4beff8d2-22)
+
