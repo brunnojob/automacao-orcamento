@@ -8,3 +8,5 @@
 
 * [2026-10-29 21:27:56] improve applied to internal configs (Ref: 4beff8d2-4)
 
+* [2026-10-29 21:27:56] format applied to type hints (Ref: 4beff8d2-5)
+
