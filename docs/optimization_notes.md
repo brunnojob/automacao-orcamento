@@ -624,3 +624,5 @@
 
 * [2026-10-30 02:48:52] improve applied to module structure (Ref: a6514b97-12)
 
+* [2026-10-30 02:48:52] clean applied to inline comments (Ref: a6514b97-13)
+
