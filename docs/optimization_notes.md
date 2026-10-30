@@ -54,3 +54,5 @@
 
 * [2026-10-29 21:28:02] optimize applied to type hints (Ref: 4beff8d2-27)
 
+* [2026-10-29 21:28:02] improve applied to internal configs (Ref: 4beff8d2-28)
+
