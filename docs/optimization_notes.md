@@ -506,3 +506,5 @@
 
 * [2026-10-29 21:30:27] clean applied to inline comments (Ref: 7d753afc-3)
 
+* [2026-10-29 21:30:27] format applied to utilities (Ref: 7d753afc-4)
+
