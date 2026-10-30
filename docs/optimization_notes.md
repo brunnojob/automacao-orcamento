@@ -294,3 +294,5 @@
 
 * [2026-10-29 21:29:03] improve applied to inline comments (Ref: 8d25b7c5-47)
 
+* [2026-10-29 21:29:04] update applied to internal configs (Ref: 8d25b7c5-48)
+
