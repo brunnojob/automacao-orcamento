@@ -1194,3 +1194,5 @@
 
 * [2026-10-30 02:50:53] optimize applied to utilities (Ref: 02aee3da-47)
 
+* [2026-10-30 02:50:53] optimize applied to internal configs (Ref: 02aee3da-48)
+
