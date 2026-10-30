@@ -1144,3 +1144,5 @@
 
 * [2026-10-30 02:50:47] optimize applied to module structure (Ref: 02aee3da-22)
 
+* [2026-10-30 02:50:47] format applied to inline comments (Ref: 02aee3da-23)
+
