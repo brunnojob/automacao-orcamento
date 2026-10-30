@@ -874,3 +874,5 @@
 
 * [2026-10-30 02:49:42] improve applied to internal configs (Ref: 73c719a3-37)
 
+* [2026-10-30 02:49:42] optimize applied to inline comments (Ref: 73c719a3-38)
+
