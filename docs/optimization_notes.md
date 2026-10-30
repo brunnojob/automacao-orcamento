@@ -548,3 +548,5 @@
 
 * [2026-10-29 21:30:33] optimize applied to internal configs (Ref: 7d753afc-24)
 
+* [2026-10-29 21:30:33] update applied to module structure (Ref: 7d753afc-25)
+
