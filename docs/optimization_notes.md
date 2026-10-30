@@ -742,3 +742,5 @@
 
 * [2026-10-30 02:49:17] clean applied to utilities (Ref: 18cbb192-21)
 
+* [2026-10-30 02:49:17] improve applied to inline comments (Ref: 18cbb192-22)
+
