@@ -142,3 +142,5 @@
 
 * [2026-10-29 21:28:28] clean applied to internal configs (Ref: b404e6de-21)
 
+* [2026-10-29 21:28:29] format applied to type hints (Ref: b404e6de-22)
+
