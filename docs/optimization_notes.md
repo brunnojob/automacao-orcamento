@@ -978,3 +978,5 @@
 
 * [2026-10-30 02:50:06] format applied to internal configs (Ref: 464b5b3b-39)
 
+* [2026-10-30 02:50:06] format applied to module structure (Ref: 464b5b3b-40)
+
