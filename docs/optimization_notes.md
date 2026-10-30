@@ -374,3 +374,5 @@
 
 * [2026-10-29 21:29:27] format applied to module structure (Ref: a373d12f-37)
 
+* [2026-10-29 21:29:27] clean applied to internal configs (Ref: a373d12f-38)
+
