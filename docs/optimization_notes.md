@@ -812,3 +812,5 @@
 
 * [2026-10-30 02:49:34] improve applied to internal configs (Ref: 73c719a3-6)
 
+* [2026-10-30 02:49:34] optimize applied to internal configs (Ref: 73c719a3-7)
+
