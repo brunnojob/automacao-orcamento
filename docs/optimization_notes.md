@@ -718,3 +718,5 @@
 
 * [2026-10-30 02:49:16] format applied to utilities (Ref: 18cbb192-9)
 
+* [2026-10-30 02:49:16] format applied to inline comments (Ref: 18cbb192-10)
+
