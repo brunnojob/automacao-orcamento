@@ -1070,3 +1070,5 @@
 
 * [2026-10-30 02:50:27] optimize applied to utilities (Ref: ac459e67-35)
 
+* [2026-10-30 02:50:27] format applied to internal configs (Ref: ac459e67-36)
+
