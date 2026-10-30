@@ -790,3 +790,5 @@
 
 * [2026-10-30 02:49:22] improve applied to module structure (Ref: 18cbb192-45)
 
+* [2026-10-30 02:49:22] update applied to utilities (Ref: 18cbb192-46)
+
