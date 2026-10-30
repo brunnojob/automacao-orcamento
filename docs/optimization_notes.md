@@ -390,3 +390,5 @@
 
 * [2026-10-29 21:29:30] optimize applied to module structure (Ref: a373d12f-45)
 
+* [2026-10-29 21:29:30] clean applied to internal configs (Ref: a373d12f-46)
+
