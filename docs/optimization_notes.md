@@ -350,3 +350,5 @@
 
 * [2026-10-29 21:29:24] optimize applied to internal configs (Ref: a373d12f-25)
 
+* [2026-10-29 21:29:25] format applied to utilities (Ref: a373d12f-26)
+
