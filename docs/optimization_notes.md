@@ -608,3 +608,5 @@
 
 * [2026-10-30 02:48:48] optimize applied to type hints (Ref: a6514b97-4)
 
+* [2026-10-30 02:48:49] update applied to internal configs (Ref: a6514b97-5)
+
