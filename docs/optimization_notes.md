@@ -194,3 +194,5 @@
 
 * [2026-10-29 21:28:34] format applied to inline comments (Ref: b404e6de-47)
 
+* [2026-10-29 21:28:35] improve applied to internal configs (Ref: b404e6de-48)
+
