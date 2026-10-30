@@ -798,3 +798,5 @@
 
 * [2026-10-30 02:49:22] improve applied to type hints (Ref: 18cbb192-49)
 
+* [2026-10-30 02:49:22] update applied to internal configs (Ref: 18cbb192-50)
+
