@@ -2,3 +2,5 @@
 
 * [2026-10-29 21:27:55] optimize applied to module structure (Ref: 4beff8d2-1)
 
+* [2026-10-29 21:27:55] optimize applied to internal configs (Ref: 4beff8d2-2)
+
