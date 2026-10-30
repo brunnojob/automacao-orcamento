@@ -140,3 +140,5 @@
 
 * [2026-10-29 21:28:28] optimize applied to utilities (Ref: b404e6de-20)
 
+* [2026-10-29 21:28:28] clean applied to internal configs (Ref: b404e6de-21)
+
