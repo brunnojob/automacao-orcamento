@@ -524,3 +524,5 @@
 
 * [2026-10-29 21:30:30] format applied to inline comments (Ref: 7d753afc-12)
 
+* [2026-10-29 21:30:30] improve applied to internal configs (Ref: 7d753afc-13)
+
