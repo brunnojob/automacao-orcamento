@@ -188,3 +188,5 @@
 
 * [2026-10-29 21:28:34] update applied to type hints (Ref: b404e6de-44)
 
+* [2026-10-29 21:28:34] improve applied to internal configs (Ref: b404e6de-45)
+
