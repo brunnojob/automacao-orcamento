@@ -584,3 +584,5 @@
 
 * [2026-10-29 21:30:39] update applied to type hints (Ref: 7d753afc-42)
 
+* [2026-10-29 21:30:40] improve applied to inline comments (Ref: 7d753afc-43)
+
