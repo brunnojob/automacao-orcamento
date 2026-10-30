@@ -1132,3 +1132,5 @@
 
 * [2026-10-30 02:50:45] improve applied to type hints (Ref: 02aee3da-16)
 
+* [2026-10-30 02:50:45] improve applied to inline comments (Ref: 02aee3da-17)
+
