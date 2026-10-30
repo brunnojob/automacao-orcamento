@@ -448,3 +448,5 @@
 
 * [2026-10-29 21:29:58] update applied to inline comments (Ref: fbe0077c-24)
 
+* [2026-10-29 21:29:59] improve applied to internal configs (Ref: fbe0077c-25)
+
