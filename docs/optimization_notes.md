@@ -466,3 +466,5 @@
 
 * [2026-10-29 21:30:02] update applied to internal configs (Ref: fbe0077c-33)
 
+* [2026-10-29 21:30:02] improve applied to module structure (Ref: fbe0077c-34)
+
