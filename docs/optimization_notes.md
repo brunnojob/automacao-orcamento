@@ -354,3 +354,5 @@
 
 * [2026-10-29 21:29:25] improve applied to internal configs (Ref: a373d12f-27)
 
+* [2026-10-29 21:29:25] improve applied to module structure (Ref: a373d12f-28)
+
