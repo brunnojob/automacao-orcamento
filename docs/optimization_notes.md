@@ -596,3 +596,5 @@
 
 * [2026-10-29 21:30:41] optimize applied to internal configs (Ref: 7d753afc-48)
 
+* [2026-10-29 21:30:41] clean applied to module structure (Ref: 7d753afc-49)
+
