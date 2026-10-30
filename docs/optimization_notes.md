@@ -412,3 +412,5 @@
 
 * [2026-10-29 21:29:48] improve applied to internal configs (Ref: fbe0077c-6)
 
+* [2026-10-29 21:29:48] improve applied to inline comments (Ref: fbe0077c-7)
+
