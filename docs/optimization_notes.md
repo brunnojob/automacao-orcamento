@@ -24,3 +24,5 @@
 
 * [2026-10-29 21:27:58] optimize applied to inline comments (Ref: 4beff8d2-12)
 
+* [2026-10-29 21:27:58] optimize applied to utilities (Ref: 4beff8d2-13)
+
