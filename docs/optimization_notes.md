@@ -578,3 +578,5 @@
 
 * [2026-10-29 21:30:39] clean applied to inline comments (Ref: 7d753afc-39)
 
+* [2026-10-29 21:30:39] clean applied to internal configs (Ref: 7d753afc-40)
+
