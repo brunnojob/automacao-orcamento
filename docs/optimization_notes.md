@@ -124,3 +124,5 @@
 
 * [2026-10-29 21:28:26] improve applied to utilities (Ref: b404e6de-12)
 
+* [2026-10-29 21:28:26] format applied to internal configs (Ref: b404e6de-13)
+
