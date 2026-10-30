@@ -774,3 +774,5 @@
 
 * [2026-10-30 02:49:20] format applied to utilities (Ref: 18cbb192-37)
 
+* [2026-10-30 02:49:20] clean applied to internal configs (Ref: 18cbb192-38)
+
