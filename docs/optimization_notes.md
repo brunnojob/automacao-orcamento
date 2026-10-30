@@ -940,3 +940,5 @@
 
 * [2026-10-30 02:50:01] optimize applied to internal configs (Ref: 464b5b3b-20)
 
+* [2026-10-30 02:50:01] clean applied to internal configs (Ref: 464b5b3b-21)
+
