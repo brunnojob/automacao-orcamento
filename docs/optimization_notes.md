@@ -830,3 +830,5 @@
 
 * [2026-10-30 02:49:36] optimize applied to internal configs (Ref: 73c719a3-15)
 
+* [2026-10-30 02:49:36] update applied to inline comments (Ref: 73c719a3-16)
+
