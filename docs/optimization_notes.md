@@ -392,3 +392,5 @@
 
 * [2026-10-29 21:29:30] clean applied to internal configs (Ref: a373d12f-46)
 
+* [2026-10-29 21:29:31] clean applied to module structure (Ref: a373d12f-47)
+
