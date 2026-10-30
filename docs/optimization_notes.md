@@ -304,3 +304,5 @@
 
 * [2026-10-29 21:29:18] clean applied to inline comments (Ref: a373d12f-2)
 
+* [2026-10-29 21:29:18] improve applied to utilities (Ref: a373d12f-3)
+
