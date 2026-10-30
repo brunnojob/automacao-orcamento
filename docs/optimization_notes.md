@@ -326,3 +326,5 @@
 
 * [2026-10-29 21:29:21] clean applied to utilities (Ref: a373d12f-13)
 
+* [2026-10-29 21:29:21] improve applied to utilities (Ref: a373d12f-14)
+
