@@ -122,3 +122,5 @@
 
 * [2026-10-29 21:28:26] update applied to inline comments (Ref: b404e6de-11)
 
+* [2026-10-29 21:28:26] improve applied to utilities (Ref: b404e6de-12)
+
