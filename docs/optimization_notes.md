@@ -1454,3 +1454,5 @@
 
 * [2026-10-31 01:21:22] format applied to module structure (Ref: 308e4681-27)
 
+* [2026-10-31 01:21:22] format applied to utilities (Ref: 308e4681-28)
+
