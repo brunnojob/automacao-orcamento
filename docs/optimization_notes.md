@@ -1602,3 +1602,5 @@
 
 * [2026-10-31 01:22:01] clean applied to utilities (Ref: 6003789e-1)
 
+* [2026-10-31 01:22:01] clean applied to internal configs (Ref: 6003789e-2)
+
