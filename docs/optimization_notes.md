@@ -1264,3 +1264,5 @@
 
 * [2026-10-31 01:20:36] update applied to utilities (Ref: f328173b-32)
 
+* [2026-10-31 01:20:37] update applied to internal configs (Ref: f328173b-33)
+
