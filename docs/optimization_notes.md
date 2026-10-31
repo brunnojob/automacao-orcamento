@@ -1328,3 +1328,5 @@
 
 * [2026-10-31 01:20:57] clean applied to type hints (Ref: 8f10d3d9-14)
 
+* [2026-10-31 01:20:57] format applied to internal configs (Ref: 8f10d3d9-15)
+
