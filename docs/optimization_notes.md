@@ -1272,3 +1272,5 @@
 
 * [2026-10-31 01:20:37] optimize applied to type hints (Ref: f328173b-36)
 
+* [2026-10-31 01:20:37] optimize applied to inline comments (Ref: f328173b-37)
+
