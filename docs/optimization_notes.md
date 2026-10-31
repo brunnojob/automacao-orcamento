@@ -1582,3 +1582,5 @@
 
 * [2026-10-31 01:21:46] improve applied to type hints (Ref: 611d7e95-41)
 
+* [2026-10-31 01:21:46] update applied to internal configs (Ref: 611d7e95-42)
+
