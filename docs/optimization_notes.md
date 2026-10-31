@@ -1384,3 +1384,5 @@
 
 * [2026-10-31 01:21:05] improve applied to type hints (Ref: 8f10d3d9-42)
 
+* [2026-10-31 01:21:05] format applied to utilities (Ref: 8f10d3d9-43)
+
