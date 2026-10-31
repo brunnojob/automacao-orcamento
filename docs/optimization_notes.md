@@ -1578,3 +1578,5 @@
 
 * [2026-10-31 01:21:45] optimize applied to inline comments (Ref: 611d7e95-39)
 
+* [2026-10-31 01:21:46] improve applied to inline comments (Ref: 611d7e95-40)
+
