@@ -1220,3 +1220,5 @@
 
 * [2026-10-31 01:20:32] optimize applied to module structure (Ref: f328173b-10)
 
+* [2026-10-31 01:20:32] improve applied to inline comments (Ref: f328173b-11)
+
