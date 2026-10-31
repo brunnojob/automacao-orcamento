@@ -1226,3 +1226,5 @@
 
 * [2026-10-31 01:20:32] improve applied to module structure (Ref: f328173b-13)
 
+* [2026-10-31 01:20:32] clean applied to internal configs (Ref: f328173b-14)
+
