@@ -1238,3 +1238,5 @@
 
 * [2026-10-31 01:20:33] improve applied to utilities (Ref: f328173b-19)
 
+* [2026-10-31 01:20:33] improve applied to inline comments (Ref: f328173b-20)
+
