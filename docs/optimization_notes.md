@@ -1486,3 +1486,5 @@
 
 * [2026-10-31 01:21:24] improve applied to module structure (Ref: 308e4681-43)
 
+* [2026-10-31 01:21:24] improve applied to internal configs (Ref: 308e4681-44)
+
