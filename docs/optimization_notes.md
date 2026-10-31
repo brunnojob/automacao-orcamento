@@ -1458,3 +1458,5 @@
 
 * [2026-10-31 01:21:22] optimize applied to internal configs (Ref: 308e4681-29)
 
+* [2026-10-31 01:21:22] format applied to module structure (Ref: 308e4681-30)
+
