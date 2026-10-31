@@ -1656,3 +1656,5 @@
 
 * [2026-10-31 01:22:07] improve applied to type hints (Ref: 6003789e-28)
 
+* [2026-10-31 01:22:08] improve applied to internal configs (Ref: 6003789e-29)
+
