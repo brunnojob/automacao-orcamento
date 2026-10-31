@@ -1290,3 +1290,5 @@
 
 * [2026-10-31 01:20:39] improve applied to internal configs (Ref: f328173b-45)
 
+* [2026-10-31 01:20:39] improve applied to inline comments (Ref: f328173b-46)
+
